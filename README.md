@@ -5,7 +5,7 @@
 build
 
 ```
-$ docker build -d test/go .
+$ docker build -t test/go .
 ```
 
 run
